@@ -1,0 +1,3 @@
+[submodule "dummyrepo"]
+	path = dummyrepo
+	url = git://github.com/thewoolleyman/dummyrepo.git
