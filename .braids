@@ -3,6 +3,6 @@ dummyrepo:
   squashed: true
   url: git@github.com:thewoolleyman/dummyrepo.git
   type: git
-  revision: 0e1511d64bd6d4df9814255d1b7c6e4d20e8925e
+  revision: b3506af377e7e0b0afe320842573bc90162c6838
   branch: master
   remote: braid/dummyrepo
